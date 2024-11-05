@@ -2,4 +2,4 @@ Student Grades Analyzer using PyTorch is a program designed to analyze and evalu
 
  This some result
  
-![student_grades](student_grades.txt)
+![student_grades.txt](student_grades.txt)
